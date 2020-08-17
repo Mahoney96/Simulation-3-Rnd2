@@ -1,4 +1,5 @@
 import React from 'react';
+import axios from 'axios';
 
 const Auth = () => {
     return <div>
@@ -7,3 +8,11 @@ const Auth = () => {
 };
 
 export default Auth;
+
+
+class Auth extends React .Component {
+    
+    componentDidMount(){
+        this.props.
+    }
+}
